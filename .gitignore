@@ -1,0 +1,5 @@
+trading_engine
+*.o
+*.exe
+logs/
+.DS_Store
